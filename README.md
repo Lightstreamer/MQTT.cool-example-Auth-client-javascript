@@ -9,9 +9,9 @@ implementation, which supplies user validation and authorization logics.
 
 ## Live Demo
 
-[![Live Demo](screen-large.gif)](https://demos.mqtt.cool/auth-hook)
+[![Live Demo](screen-large.gif)](https://demos.lightstreamer.com/auth-hook)
 
-### [![](http://demos.mqtt.cool/resources/play.png) View live demo](https://demos.mqtt.cool/auth-hook)
+### [![](http://demos.lightstreamer.com/site/img/play.png) View live demo](https://demos.lightstreamer.com/auth-hook)
 
 
 ## Details
@@ -162,7 +162,7 @@ whatever MQTT broker you prefer, or may also use one of the available public
 broker (an up-to-date list is maintained at
 [https://github.com/mqtt/mqtt.github.io/wiki/public_brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)).
 * Download and configure an MQTT.Cool instance. Please refer to mqtt.cool web site
-[download page](https://mqtt.cool/download/latest-server) to find the MQTT.Cool
+[download page](https://lightstreamer.com/download/) to find the MQTT.Cool
 package. MQTT.Cool comes with a set of predefined configurations for
 connecting with local MQTT server instances, as well as with the most common
 publicly accessible brokers. If you want to provide a new custom configuration,
@@ -273,7 +273,7 @@ where `url_broker` is the url of the MQTT broker relative to the alias in use.
 
 ## See Also
 
-* [Check out all other demos on MQTT.Cool site](https://mqtt.cool/demos)
+* [Check out all other demos on MQTT.Cool site](https://demos.lightstreamer.com/?p=mqttcool)
 
 ## MQTT.Cool Compatibility Notes
 
